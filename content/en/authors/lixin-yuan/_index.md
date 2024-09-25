@@ -3,7 +3,7 @@ title: Lixin Yuan
 first_name: Lixin
 last_name: Yuan
 role: "Lecturer "
-avatar_filename: avatar
+avatar_filename: 微信图片_20240925165912.jpg
 interests:
   - pattern recognition
   - machine learning
