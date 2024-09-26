@@ -3,7 +3,7 @@ title: Lixin Yuan
 first_name: Lixin
 last_name: Yuan
 role: "Lecturer "
-avatar_filename: 微信图片_20240925165912.jpg
+avatar_filename: avatar
 interests:
   - pattern recognition
   - machine learning
@@ -18,7 +18,7 @@ education:
       year: 2024
     - course: "M.S. degree "
       institution: Hohai University
-      year: 2016
+      year: 2015
     - course: B.S. degree
       institution: Xidian University
       year: 2014
