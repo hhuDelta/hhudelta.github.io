@@ -13,27 +13,27 @@ sections:
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: welcome.jpg
             filters:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
+      - title: Talk & Learn ☕️
         content: 'Share your knowledge with the group and explore exciting new topics together!'
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: talk.jpg
             filters:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: DELTA
+      - title: Join Delta Lab
         content: ''
         align: right
         background:
           image:
-            filename: welcome.jpg
+            filename: join.jpg
             filters:
               brightness: 0.5
           position: center
@@ -45,7 +45,7 @@ sections:
           url: ../contact/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: '390px'
+      slide_height: '450px'
       # is_fullscreen: true
       # Automatically transition through slides?
       loop: true
@@ -62,13 +62,13 @@ sections:
       text: |
         <br>
         
-        **Delta Lab**隶属于中国河海大学计算机与软件学院，致力于推进计算机视觉领域的发展。我们的研究集中在几个前沿领域：
+        **Delta Lab**隶属于河海大学计算机与软件学院，致力于推进计算机视觉领域的发展。我们的研究集中在几个前沿领域：
         - **计算机视觉:** 小样本图像分割，文字检测与识别。
         - **人工智能:** 可解释性人工智能，因果分析。
         - **多媒体计算:** 医学图像分析，图像加密与超分辨率。
         - **智慧水利:** 智能水文过程建模，水文大数据处理与分析。
         
-        我们致力于通过理论研究和实际应用推动技术的边界。如果您对计算机视觉及其应用充满热情，我们邀请您加入我们。有关我们研究的更多信息或参与其中，请通过以下方式与我们联系：[wuyirui@hhu.edu.cn](mailto:wuyirui@hhu.edu.cn). 我们期待与您合作。
+        我们致力于通过理论研究和实际应用推动技术的边界。如果您对计算机视觉及其应用充满热情，我们邀请您加入我们。有关我们研究的更多信息或想要参与其中，请通过以下方式与我们联系：[wuyirui@hhu.edu.cn](mailto:wuyirui@hhu.edu.cn). 我们期待与您合作。
 
 
 

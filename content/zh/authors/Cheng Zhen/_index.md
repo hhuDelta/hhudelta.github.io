@@ -19,19 +19,19 @@ role: 23级专硕
 
 # Organizations/Affiliations
 organizations:
-  - name: Hohai University
+  - name: 河海大学
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Knowledge distillation
+  - 知识蒸馏
 
 education:
   courses:
-    - course: B.E. in Software Engineering
-      institution: Jiangsu University of Science and Technology
+    - course: 软件工程 学士学位
+      institution: 江苏科技大学
       year: 2023
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -60,5 +60,5 @@ user_groups:
   - 研究生
 ---
 
-I received my B.E. degree in Software Engineering from Jiangsu University of Science and Technology in 2023. I am currently studying for my Master's degree and am a member of the HHU-CV laboratory under Professor Yirui Wu.
+I received my B.E. degree in Software Engineering from Jiangsu University of Science and Technology in 2023. I am currently studying for my Master's degree and am a member of the Delta Lab under Professor Yirui Wu.
 I often post my projects on Github. If you are interested, you can communicate with me through email or post an issue.

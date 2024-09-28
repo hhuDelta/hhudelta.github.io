@@ -19,20 +19,20 @@ role: 22级学硕
 
 # Organizations/Affiliations
 organizations:
-  - name: Hohai University
+  - name: 河海大学
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
-  - Computer vision
+  - 人工智能
+  - 计算机视觉
 
 education:
   courses:
-    - course: B.E. in Computer Science and Techonology
-      institution: NingboTech University
+    - course: 计算机科学与技术 学士学位
+      institution: 浙大宁波理工学院
       year: 2021
 
 # Social/Academic Networking
@@ -58,4 +58,4 @@ user_groups:
   - 研究生
 ---
 
-I received my B.E. degree in computer science and technology from NingboTech University in 2021. I am currently working toward M.E. degree as a member of HHU-CV Lab, under the guidence of Professor Yirui Wu.
+I received my B.E. degree in computer science and technology from NingboTech University in 2021. I am currently working toward M.E. degree as a member of Delta Lab, under the guidence of Professor Yirui Wu.

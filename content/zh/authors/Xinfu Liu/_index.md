@@ -19,21 +19,21 @@ role: 23级博士
 
 # Organizations/Affiliations
 organizations:
-  - name: Hohai University
+  - name: 河海大学
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - image segmentation
-  - few-shot learning
-  - incremental learning
+  - 图像分割
+  - 小样本学习
+  - 增量学习
 
 education:
   courses:
-    - course: M.E. in Computer Application Technology
-      institution: Yunnan University
+    - course: 计算机应用技术 硕士学位
+      institution: 云南大学
       year: 2022
 
 # Social/Academic Networking
@@ -60,4 +60,4 @@ user_groups:
   - 研究生
 ---
 
-I received my M.E. degree in computer application technology from Yunnan University in 2022. I am currently working toward Ph.D as a member of HHU-CV Lab, under the guidence of Professor Yirui Wu. My current research interests include image segmentation, few-shot learning and incremental learning.
+I received my M.E. degree in computer application technology from Yunnan University in 2022. I am currently working toward Ph.D as a member of Delta Lab, under the guidence of Professor Yirui Wu. My current research interests include image segmentation, few-shot learning and incremental learning.

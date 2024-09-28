@@ -13,27 +13,27 @@ sections:
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: welcome.jpg
             filters:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
+      - title: Talk & Learn ☕️
         content: 'Share your knowledge with the group and explore exciting new topics together!'
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: talk.jpg
             filters:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: DELTA
+      - title: Join Delta Lab
         content: ''
         align: right
         background:
           image:
-            filename: welcome.jpg
+            filename: join.jpg
             filters:
               brightness: 0.5
           position: center
@@ -45,7 +45,7 @@ sections:
           url: ../contact/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: '390px'
+      slide_height: '450px'
       # is_fullscreen: true
       # Automatically transition through slides?
       loop: true
@@ -56,20 +56,20 @@ sections:
   - block: markdown
     content:
       title: |
-        DELTA welcomes you!
+        Delta Lab welcomes you!
       # image:
       #   filename: welcome.jpg
       text: |
         <br>
         
-        **DELTA**, part of the School of Computer and Software at Hohai University, China, is dedicated to advancing the field of computer vision. Our research focuses on several cutting-edge areas:
+        **Delta Lab**, part of the School of Computer and Software at Hohai University, China, is dedicated to advancing the field of computer vision. Our research focuses on several cutting-edge areas:
 
         - **Computer Vision:** We specialize in few-shot learning for image segmentation and end-to-end text detection and recognition.
         - **Artificial Intelligence:** Our work includes explainable AI and causal reasoning, aiming to make AI systems more transparent and understandable.
         - **Multimedia Computing:** We explore medical image analysis, image encryption, and super-resolution methods to enhance multimedia data processing.
         - **Intelligent Water Conservancy:** We apply artificial intelligence techniques to process hydrology big data, supporting advancements in water resource management.
 
-        At HHU-CV Lab, we are committed to pushing the boundaries of technology through both theoretical research and practical applications. If you are passionate about computer vision and its applications, we invite you to join us. For more information about our research or to get involved, please contact us at [wuyirui@hhu.edu.cn](mailto:wuyirui@hhu.edu.cn). We look forward to collaborating with you.
+        At Delta Lab, we are committed to pushing the boundaries of technology through both theoretical research and practical applications. If you are passionate about computer vision and its applications, we invite you to join us. For more information about our research or to get involved, please contact us at [wuyirui@hhu.edu.cn](mailto:wuyirui@hhu.edu.cn). We look forward to collaborating with you.
 
 
 

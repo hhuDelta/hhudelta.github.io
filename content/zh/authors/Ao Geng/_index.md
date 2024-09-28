@@ -19,20 +19,20 @@ role: 23级专硕
 
 # Organizations/Affiliations
 organizations:
-  - name: Hohai University
+  - name: 河海大学
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Few-shot Learning
-  - object detection
+  - 小样本学习
+  - 目标检测
 
 education:
   courses:
-    - course: B.E. in Computer Science and Techonology
-      institution: Anhui University of Science and Technology
+    - course: 计算机科学与技术 学士学位
+      institution: 安徽科技大学
       year: 2023
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -57,4 +57,4 @@ user_groups:
   - 研究生
 ---
 
- I received my B.E. degree in computer science and technology from Anhui University of Science and Technology in 2023. I am currently working toward M.E. degree as a member of HHU-CV Lab, under the guidence of Professor Yirui Wu. My current research interests include Few-shot Learning and object detection.
+ I received my B.E. degree in computer science and technology from Anhui University of Science and Technology in 2023. I am currently working toward M.E. degree as a member of Delta Lab, under the guidence of Professor Yirui Wu. My current research interests include Few-shot Learning and object detection.

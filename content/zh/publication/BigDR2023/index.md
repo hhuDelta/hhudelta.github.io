@@ -28,7 +28,7 @@ publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
 publication: Big Data Research
-publication_short: BigDR
+publication_short: BigDR'23(SCI)
 
 abstract: Deep learning has achieved great success in text detection, where recent methods adopt inspirations from segmentation to detect scene texts. However, most segmentation based methods have high computation cost in pixel-level classification and post refinements. Moreover, they still faces challenges like arbitrary directions, curved texts, illumination and so on. Aim to improve detection accuracy and computation cost, we propose an end-to-end and single-stage method named as End-PolarT network by generating contour points in polar coordinates for text detection. End-PolarT not only regress locations of contour points instead of pixels to relieve high computation cost, but also fits with intrinsic characteristics of text instances by centers and contours to suppress mislabeling boundary pixels. To cope with polar representation, we further propose polar IoU and centerness as key parts of loss functions to generate effective paradigms for text detection. Compared with the existing methods, End-PolarT achieves superior results by testing on several public datasets, thus keeping balance between efficiency and effectiveness in complicated scenes.
 

@@ -30,7 +30,7 @@ publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
 publication: IEEE Transactions on Image Processing
-publication_short: IEEE TIP
+publication_short: IEEE TIP'16(CCF-A)
 
 abstract: Text recognition in video/natural scene images has gained significant attention in the field of image processing in many computer vision applications, which is much more challenging than recognition in plain background images. In this paper, we aim to restore complete character contours in video/scene images from gray values, in contrast to the conventional techniques that consider edge images/binary information as inputs for text detection and recognition. We explore and utilize the strengths of zero crossing points given by the Laplacian to identify stroke candidate pixels (SPC). For each SPC pair, we propose new symmetry features based on gradient magnitude and Fourier phase angles to identify probable stroke candidate pairs (PSCP). The same symmetry properties are proposed at the PSCP level to choose seed stroke candidate pairs (SSCP). Finally, an iterative algorithm is proposed for SSCP to restore complete character contours. Experimental results on benchmark databases, namely, the ICDAR family of video and natural scenes, Street View Data, and MSRA data sets, show that the proposed technique outperforms the existing techniques in terms of both quality measures and recognition rate. We also show that character contour restoration is effective for text detection in video and natural scene images.
 

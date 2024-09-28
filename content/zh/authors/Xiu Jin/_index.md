@@ -20,20 +20,19 @@ role: 23级学硕
 
 # Organizations/Affiliations
 organizations:
-  - name: Hohai University
+  - name: 河海大学
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include CV.
 
 interests:
-  - Artificial Intelligence
-  - Computer vision
+  - 计算机视觉
 
 education:
   courses:
-    - course: B.E. in Computer Science and Techonology
-      institution: Nanjing Tech University
+    - course: 计算机科学与技术 学士学位
+      institution: 南京工业大学
       year: 2023
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -61,4 +60,4 @@ user_groups:
   - 研究生
 ---
 
-I received my B.E. degree in computer science and technology from Nanjing Tech University in 2023. I am currently working toward M.E. degree as a member of HHU-CV Lab, under the guidence of Professor Yirui Wu.
+I received my B.E. degree in computer science and technology from Nanjing Tech University in 2023. I am currently working toward M.E. degree as a member of Delta Lab, under the guidence of Professor Yirui Wu.

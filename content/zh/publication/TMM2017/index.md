@@ -6,7 +6,7 @@ authors:
   - Yirui Wu
   - Tong Lu
   - Zehuan Yuan
-  - Hao Wang
+  - Hao Wang.
 
 # Author notes (optional)
 # author_notes:
@@ -26,7 +26,7 @@ publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
 publication: IEEE Transactions on Multimedia
-publication_short: IEEE TMM
+publication_short: IEEE TMM'17(CCF-B)
 
 abstract: Sculpture design is challenging due to its inherent difficulty in characterizing artworks quantitatively; thus, few works have been done to assist sculpture design in the past decades in the multimedia community. We have cooperated with several sculptors on analyzing styles of different artists consisting of Giacometti, Augeuste Rodin, Henry Moore, and Marino Marini from which we find pose editing plays an important role in sculpture design. Motivated by this, we present a novel platform that allows sculptors to edit virtual three-dimensional (3-D) sculptures by a free way. The proposed platform consists of three modules, namely, sculpture initialization, sculptor-sculpture mapping, and interactive pose editing. In sculpture initialization, a virtual 3-D sculpture is first incrementally reconstructed from multiview images. Then, we define Laplace operator and its corresponding spectrum to describe the geometry information of the reconstructed sculpture. During sculptor–sculpture mapping, we apply spectral analysis on the low-frequency parts of the spectrum to search for candidate editing points on the surface of the sculpture. Next, body actions of the sculptor are captured by Kinect and further mapped onto editing points as a predefined configuration set. Finally, during interactive pose editing, a real-time Kinect-driven sculpture pose editing scheme is presented, which not only preserves geometry features of the sculpture but also allows instant changes of sculpture poses. We demonstrate that our platform successfully assists sculptors on real-time pose editing by comparing its performance with those of the existing sculpture assisting methods.
 

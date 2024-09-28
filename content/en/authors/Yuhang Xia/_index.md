@@ -41,7 +41,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:15189145339@163.com'
-
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/LegendSherlock
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -58,4 +60,4 @@ user_groups:
   - Graduate Students
 ---
 
-I received Bachelor of Management degree in Engineering Management from Nanjing Audit University in 2019. I am currently studying for my Master's degree and i am a member of the HHU-CV laboratory under Professor Yirui Wu.
+I received Bachelor of Management degree in Engineering Management from Nanjing Audit University in 2019. I am currently studying for my Master's degree and i am a member of the Delta Lab under Professor Yirui Wu.

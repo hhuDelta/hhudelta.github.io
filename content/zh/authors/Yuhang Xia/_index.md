@@ -19,7 +19,7 @@ role: 23级专硕
 
 # Organizations/Affiliations
 organizations:
-  - name: Hohai University
+  - name: 河海大学
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -30,8 +30,8 @@ interests:
 
 education:
   courses:
-    - course: B.E. in Engineering Management
-      institution: Nanjing Audit University
+    - course: 工程管理 学士学位
+      institution: 南京审计大学
       year: 2019
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -41,6 +41,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:15189145339@163.com'
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/LegendSherlock
 
   
 # Link to a PDF of your resume/CV from the About widget.
@@ -58,4 +61,4 @@ user_groups:
   - 研究生
 ---
 
-I received Bachelor of Management degree in Engineering Management from Nanjing Audit University in 2019. I am currently studying for my Master's degree and i am a member of the HHU-CV laboratory under Professor Yirui Wu.
+I received Bachelor of Management degree in Engineering Management from Nanjing Audit University in 2019. I am currently studying for my Master's degree and i am a member of the Delta Lab under Professor Yirui Wu.

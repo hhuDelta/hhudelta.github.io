@@ -19,7 +19,7 @@ role: 22级学硕
 
 # Organizations/Affiliations
 organizations:
-  - name: Hohai University
+  - name: 河海大学
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -31,8 +31,8 @@ interests:
 
 education:
   courses:
-    - course: B.E. in Computer Science and Techonology
-      institution: Nanjing Tech University
+    - course: 计算机科学与技术 学士学位
+      institution: 南京工业大学
       year: 2021
 
 # Social/Academic Networking
@@ -58,5 +58,5 @@ user_groups:
   - 研究生
 ---
 
-I received my B.E. degree in computer science and technology from Nanjing Tech University in 2021. I am currently working toward M.E. degree as a member of HHU-CV Lab, under the guidence of Professor Yirui Wu. My current research interests include 3D Object Detection and Transformer.
+I received my B.E. degree in computer science and technology from Nanjing Tech University in 2021. I am currently working toward M.E. degree as a member of Delta Lab, under the guidence of Professor Yirui Wu. My current research interests include 3D Object Detection and Transformer.
 You can also follow me on CSDN website with ID 偷走心灵的告白 or Github website with ID QinRui666.
