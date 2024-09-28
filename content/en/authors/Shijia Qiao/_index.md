@@ -57,4 +57,4 @@ user_groups:
   - Graduate Students
 ---
 
-I received my B.E. degree in Computer Science and Technology from North China University of Water Resources and Electric Power in 2023. I am currently working toward M.E. degree as a member of HHU-CV Lab, under the guidance of Professor Yirui Wu. My current research interests include Forgetting learning and causal inference.
+I received my B.E. degree in Computer Science and Technology from North China University of Water Resources and Electric Power in 2023. I am currently working toward M.E. degree as a member of Delta Lab, under the guidance of Professor Yirui Wu. My current research interests include Forgetting learning and causal inference.

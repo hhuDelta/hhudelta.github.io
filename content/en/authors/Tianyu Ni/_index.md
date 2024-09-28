@@ -58,4 +58,4 @@ user_groups:
   - Graduate Students
 ---
 
-I received my B.E. degree in computer science and technology from NingboTech University in 2021. I am currently working toward M.E. degree as a member of HHU-CV Lab, under the guidence of Professor Yirui Wu.
+I received my B.E. degree in computer science and technology from NingboTech University in 2021. I am currently working toward M.E. degree as a member of Delta Lab, under the guidence of Professor Yirui Wu.

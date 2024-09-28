@@ -60,5 +60,5 @@ user_groups:
   - Graduate Students
 ---
 
-I received my B.E. degree in Software Engineering from Jiangsu University of Science and Technology in 2023. I am currently studying for my Master's degree and am a member of the HHU-CV laboratory under Professor Yirui Wu.
+I received my B.E. degree in Software Engineering from Jiangsu University of Science and Technology in 2023. I am currently studying for my Master's degree and am a member of the DeltaV Lab under Professor Yirui Wu.
 I often post my projects on Github. If you are interested, you can communicate with me through email or post an issue.

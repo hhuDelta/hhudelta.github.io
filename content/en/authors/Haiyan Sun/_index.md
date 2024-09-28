@@ -57,4 +57,4 @@ user_groups:
   - Graduate Students
 ---
 
-I received my B.E. degree in computer science and technology from Shandong Normal University in 2023. I am currently working toward M.E. degree as a member of HHU-CV Lab, under the guidence of Professor Yirui Wu. My current research interests include Few shot Learning and Graph Neural Network. I think machines can take a lot of clues from 2D images and make inferences based on them, just like Sherlock Holmes.
+I received my B.E. degree in computer science and technology from Shandong Normal University in 2023. I am currently working toward M.E. degree as a member of Delta Lab, under the guidence of Professor Yirui Wu. My current research interests include Few shot Learning and Graph Neural Network. I think machines can take a lot of clues from 2D images and make inferences based on them, just like Sherlock Holmes.

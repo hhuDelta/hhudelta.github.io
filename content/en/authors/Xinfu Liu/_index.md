@@ -60,4 +60,4 @@ user_groups:
   - Graduate Students
 ---
 
-I received my M.E. degree in computer application technology from Yunnan University in 2022. I am currently working toward Ph.D as a member of HHU-CV Lab, under the guidence of Professor Yirui Wu. My current research interests include image segmentation, few-shot learning and incremental learning.
+I received my M.E. degree in computer application technology from Yunnan University in 2022. I am currently working toward Ph.D as a member of Delta Lab, under the guidence of Professor Yirui Wu. My current research interests include image segmentation, few-shot learning and incremental learning.

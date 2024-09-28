@@ -58,5 +58,5 @@ user_groups:
   - Graduate Students
 ---
 
-I received my B.E. degree in computer science and technology from Nanjing Tech University in 2021. I am currently working toward M.E. degree as a member of HHU-CV Lab, under the guidence of Professor Yirui Wu. My current research interests include 3D Object Detection and Transformer.
+I received my B.E. degree in computer science and technology from Nanjing Tech University in 2021. I am currently working toward M.E. degree as a member of Delta Lab, under the guidence of Professor Yirui Wu. My current research interests include 3D Object Detection and Transformer.
 You can also follow me on CSDN website with ID 偷走心灵的告白 or Github website with ID QinRui666.
