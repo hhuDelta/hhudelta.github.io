@@ -80,7 +80,7 @@ user_groups:
 
 ---
 
-巫义锐，男，工学博士，河海大学计算机与信息学院青年教授，我是水利大数据研究所成员，河海大学计算机视觉实验室(HHU-CV)负责人，获河海大学“大禹学者”称号。研究方向为计算机视觉、多媒体计算与智慧水利。 我于2011年在南京大学计算机科学与技术系获得理学学士学位，同年被保送至南大计算机系攻读博士学位，并于2016年获得工学博士学位，我的指导老师是[路通](https://cs.nju.edu.cn/lutong/index.htm)教授， 并和[Shivakumara Palaiahnakote教授](https://umexpert.um.edu.my/shiva) 保持了紧密合作关系。我曾于2012年和2014年两次访问香港科学与技术大学，并接受了[戴秋兰教授](http://home.cse.ust.hk/~taicl/)和 欧建忠博士的指导。主持了国家自然科学基金、江苏省自然科学基金、国家重点研发计划子专题、国家重点实验室开放课题等多个研究项目。我于权威国际刊物《IEEE Transactions on Image Processing》、《IEEE Transactions on Multimedia》、 《IEEE Transactions on Network Science and Engineering》及高水平国际学术会议ACM Multimedia、 ICME、ICPR、BIBM、ICIP等发表学术论文四十余篇。
+巫义锐，男，工学博士，河海大学计算机与信息学院青年教授，我是水利大数据研究所成员，河海大学Delta Lab负责人，获河海大学“大禹学者”称号。研究方向为计算机视觉、多媒体计算与智慧水利。 我于2011年在南京大学计算机科学与技术系获得理学学士学位，同年被保送至南大计算机系攻读博士学位，并于2016年获得工学博士学位，我的指导老师是[路通](https://cs.nju.edu.cn/lutong/index.htm)教授， 并和[Shivakumara Palaiahnakote教授](https://umexpert.um.edu.my/shiva) 保持了紧密合作关系。我曾于2012年和2014年两次访问香港科学与技术大学，并接受了[戴秋兰教授](http://home.cse.ust.hk/~taicl/)和 欧建忠博士的指导。主持了国家自然科学基金、江苏省自然科学基金、国家重点研发计划子专题、国家重点实验室开放课题等多个研究项目。我于权威国际刊物《IEEE Transactions on Image Processing》、《IEEE Transactions on Multimedia》、 《IEEE Transactions on Network Science and Engineering》及高水平国际学术会议ACM Multimedia、 ICME、ICPR、BIBM、ICIP等发表学术论文四十余篇。
 
 我现担任《IET Image Processing》(CCF-C, SCI)的副主编， 《Malaysian Journal of Computer Science》(SCI)的首位外籍副主编， 《Artificial Intelligence and Applications》的创刊副主编， CCF-YOCSEF南京副主席，CCF-MM执行委员，江苏省信息技术应用学会多媒体专委会副秘书长。我担任过 Journal of Sensor and Actuator Network (JCR Q1)和IEEE COMSOC MMTC Communications-Frontiers的客座主编， ICML2022(CCF-A, 人工智能顶会), ACM MM2022/2021(CCF-A, 多媒体顶会), ICPR2022(CCF-C), ICME2022(CCF-B), HPCC2021(CCF-C), CIKM2021(CCF-B), ACPR2021 等会议程序主席。
 
