@@ -15,7 +15,7 @@ weight: 4
 superuser: false
 
 # Role/position
-role: 24级学硕
+role: 24级专硕
 
 # Organizations/Affiliations
 organizations:
