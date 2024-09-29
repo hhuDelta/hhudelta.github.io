@@ -12,7 +12,7 @@ sections:
         课题组正招收有兴趣从事计算机视觉、人工智能、视频与图像数据处理、模式识别与计算机图形学研究及技术开发的学生。请通过邮箱 wuyirui@hhu.edu.cn联系我。
       email: wuyirui@hhu.edu.cn
       address:
-        street: 南京市河海大学江宁校区勤学楼4123室
+        street: 南京市河海大学江宁校区勤学楼3202室
       coordinates:
         latitude: '31.915050'
         longitude: '118.783241'

@@ -12,7 +12,7 @@ sections:
         Discussions or cooperations are warmly welcome. If you want to join my group, please feel free to contact with me via Email wuyirui@hhu.edu.cn.
       email: wuyirui@hhu.edu.cn
       address:
-        street: Rm4123, QinXue Building, Hohai University Jiangning District, Nanjing
+        street: Rm3202, QinXue Building, Hohai University Jiangning District, Nanjing
       coordinates:
         latitude: '31.915050'
         longitude: '118.783241'
