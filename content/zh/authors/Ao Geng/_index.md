@@ -32,7 +32,7 @@ interests:
 education:
   courses:
     - course: 计算机科学与技术 学士学位
-      institution: 安徽科技大学
+      institution: 安徽理工大学
       year: 2023
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
