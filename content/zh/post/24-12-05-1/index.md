@@ -6,4 +6,4 @@ image:
 ---
 实验室巫义锐老师获评IEEE Senior Member
 <!--more-->
-![IEEE Senior Member](\news\24-12-5.jpg)
+![IEEE Senior Member](24-12-5.jpg)

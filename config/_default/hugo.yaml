@@ -10,7 +10,7 @@ baseURL: 'https://hhudelta.github.io' # Website URL
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: zh
+defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true

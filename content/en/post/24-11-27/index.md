@@ -5,5 +5,5 @@ image:
   focal_point: 'top'
 ---
 <!--more-->
-![sgc](\news\24-11-27-1.jpg)
-![sgc](\news\24-11-27-2.jpg)
+![sgc](24-11-27-1.jpg)
+![sgc](24-11-27-2.jpg)

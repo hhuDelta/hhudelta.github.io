@@ -9,8 +9,8 @@ Thank you to the International Symposium on IoT and Smart Cities (ISITSC 2024) f
 
 <!--more-->
 
-![ISITSC](\news\6-22-isitsc-1.jpg)
-![ISITSC](\news\6-22-isitsc-2.jpg)
-![ISITSC](\news\6-22-isitsc-3.jpg)
+![ISITSC](6-22-isitsc-1.jpg)
+![ISITSC](6-22-isitsc-2.jpg)
+![ISITSC](6-22-isitsc-3.jpg)
 
 

@@ -6,4 +6,4 @@ image:
 ---
 Professor Wu Yirui from our lab was awarded the title of IEEE Senior Member
 <!--more-->
-![IEEE Senior Member](\news\24-12-5.jpg)
+![IEEE Senior Member](24-12-5.jpg)
