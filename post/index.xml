@@ -1,84 +1,192 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>最新新闻 | Delta Lab</title><link>https://hhudelta.github.io/post/</link><atom:link href="https://hhudelta.github.io/post/index.xml" rel="self" type="application/rss+xml"/><description>最新新闻</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Tue, 10 Dec 2024 00:00:00 +0000</lastBuildDate><image><url>https://hhudelta.github.io/media/icon_hu2210376920542963181.png</url><title>最新新闻</title><link>https://hhudelta.github.io/post/</link></image><item><title>恭喜实验室李豪、夏宇航同学论文被AAAI2025(CCF-A)录用</title><link>https://hhudelta.github.io/post/24-12-10/</link><pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate><guid>https://hhudelta.github.io/post/24-12-10/</guid><description>&lt;p>&lt;strong>Deconfound Semantic Shift and Incompleteness in Incremental Few-shot Semantic Segmentation&lt;/strong>&lt;/p>
-&lt;p>AAAI 2025 （CCF-A，人工智能领域顶会）&lt;/p>
-&lt;p>增量少样本语义分割（IFSS）扩展了训练模型的分割能力，使其能够用少量样本对新的类别图像进行分割。然而，在增量学习过程中，语义可能从背景转移到对象类别或反之亦然。此外，当新类别与预学习的旧类别差异很大时，新类别的样本通常缺乏代表性的属性特征。在本文中，我们提出一个因果框架来讨论IFSS中语义偏移和不完整性的原因，并从两个方面消除揭示的因果效应。首先，我们提出一个因果干预模块（CIM）来抵抗语义偏移。CIM逐步和自适应地更新旧类别的原型，并以干预的方式去除混杂因素。其次，我们提出一个原型精炼模块（PRM）来完成缺失的语义。在PRM中，从场景学习方案中获得的知识有助于融合新旧类别原型的特征。在PASCAL-VOC 2012和ADE20k基准测试上的实验证明了我们方法卓越的性能。
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Latest News | Delta Lab</title><link>https://hhudelta.github.io/post/</link><atom:link href="https://hhudelta.github.io/post/index.xml" rel="self" type="application/rss+xml"/><description>Latest News</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Dec 2024 00:00:00 +0000</lastBuildDate><image><url>https://hhudelta.github.io/media/icon_hu2210376920542963181.png</url><title>Latest News</title><link>https://hhudelta.github.io/post/</link></image><item><title>Congratulations to Li Hao and Xia Yuhang from our lab on the acceptance of their paper by AAAI 2025 (CCF-A)</title><link>https://hhudelta.github.io/post/24-12-10/</link><pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate><guid>https://hhudelta.github.io/post/24-12-10/</guid><description>&lt;p>&lt;strong>Deconfound Semantic Shift and Incompleteness in Incremental Few-shot Semantic Segmentation&lt;/strong>&lt;/p>
+&lt;p>AAAI 2025 (CCF-A, a top conference in the field of Artificial Intelligence)&lt;/p>
+&lt;p>Incremental Few-Shot Semantic Segmentation (IFSS) extends the segmentation capability of trained models, enabling them to segment images of new classes with few samples. However, during the incremental learning process, semantics may shift between background and object classes or vice versa. Additionally, when new classes differ significantly from pre-learned old classes, samples from new classes often lack representative feature attributes. In this paper, we propose a causal framework to discuss the causes of semantic shifts and incompleteness in IFSS and eliminate the revealed causal effects from two aspects. First, we introduce a Causal Intervention Module (CIM) to resist semantic shifts. CIM gradually and adaptively updates the prototypes of old classes, intervening to remove confounding factors. Secondly, we propose a Prototype Refinement Module (PRM) to complete missing semantics. In the PRM, knowledge obtained from the scene learning scheme helps integrate the features of new and old class prototypes. Experiments on the PASCAL-VOC 2012 and ADE20k benchmarks demonstrate the superior performance of our method.
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%5cnews%5c24-12-10-1.jpg" alt="AAAI 2025" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img alt="AAAI 2025" srcset="
+/post/24-12-10/24-12-10-1_hu8755427334935287335.webp 400w,
+/post/24-12-10/24-12-10-1_hu17317711680840541261.webp 760w,
+/post/24-12-10/24-12-10-1_hu12979847501937614536.webp 1200w"
+src="https://hhudelta.github.io/post/24-12-10/24-12-10-1_hu8755427334935287335.webp"
+width="552"
+height="478"
+loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%5cnews%5c24-12-10-2.jpg" alt="AAAI 2025" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img alt="AAAI 2025" srcset="
+/post/24-12-10/24-12-10-2_hu5386713475651551127.webp 400w,
+/post/24-12-10/24-12-10-2_hu2538718403404361311.webp 760w,
+/post/24-12-10/24-12-10-2_hu6557134413908332144.webp 1200w"
+src="https://hhudelta.github.io/post/24-12-10/24-12-10-2_hu5386713475651551127.webp"
+width="760"
+height="366"
+loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%5cnews%5c24-12-10-3.jpg" alt="AAAI 2025" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img alt="AAAI 2025" srcset="
+/post/24-12-10/24-12-10-3_hu2317439863330789398.webp 400w,
+/post/24-12-10/24-12-10-3_hu4645788689718472135.webp 760w,
+/post/24-12-10/24-12-10-3_hu10725222779944253949.webp 1200w"
+src="https://hhudelta.github.io/post/24-12-10/24-12-10-3_hu2317439863330789398.webp"
+width="582"
+height="296"
+loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
-&lt;/p></description></item><item><title>实验室巫义锐老师获评IEEE Senior Member</title><link>https://hhudelta.github.io/post/24-12-05-1/</link><pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate><guid>https://hhudelta.github.io/post/24-12-05-1/</guid><description>&lt;p>实验室巫义锐老师获评IEEE Senior Member&lt;/p>
+&lt;/p></description></item><item><title>Professor Wu Yirui from our lab has been invited to serve as the Associate Editor of Computational Intelligence (CCF-C)</title><link>https://hhudelta.github.io/post/24-12-05/</link><pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate><guid>https://hhudelta.github.io/post/24-12-05/</guid><description>&lt;p>Computational Intelligence is a journal in the field of artificial intelligence that publishes original research on a wide range of experimental and theoretical topics in AI and computer science. The journal has a broad scope, covering areas such as machine learning, knowledge mining, network intelligence, artificial intelligence languages, and the philosophical impacts of AI. It is read by both researchers in the academic AI community and professionals in the industry.&lt;/p>
+&lt;p>We welcome submissions from teachers and students!!!&lt;/p></description></item><item><title>Professor Wu Yirui from our lab was awarded the title of IEEE Senior Member</title><link>https://hhudelta.github.io/post/24-12-05-1/</link><pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate><guid>https://hhudelta.github.io/post/24-12-05-1/</guid><description>&lt;p>Professor Wu Yirui from our lab was awarded the title of IEEE Senior Member&lt;/p>
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%5cnews%5c24-12-5.jpg" alt="IEEE Senior Member" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img alt="IEEE Senior Member" srcset="
+/post/24-12-05-1/24-12-5_hu12167751180098285937.webp 400w,
+/post/24-12-05-1/24-12-5_hu11087521000046097012.webp 760w,
+/post/24-12-05-1/24-12-5_hu18182867724115022333.webp 1200w"
+src="https://hhudelta.github.io/post/24-12-05-1/24-12-5_hu12167751180098285937.webp"
+width="584"
+height="760"
+loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
-&lt;/p></description></item><item><title>实验室巫义锐老师受邀成为《Computational Intelligence》(CCF-C)的副主编</title><link>https://hhudelta.github.io/post/24-12-05/</link><pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate><guid>https://hhudelta.github.io/post/24-12-05/</guid><description>&lt;p>计算智能是一本人工智能领域的期刊，它出版关于人工智能和计算机科学广泛实验和理论主题的原创研究。该期刊具有广泛的范围，涵盖了机器学习、知识挖掘、网络智能、人工智能语言和哲学影响等方面。我们既被人工智能学术界的研究人员阅读，也被工业界的专业人士阅读。&lt;/p>
-&lt;p>欢迎各位老师与同学投稿！！！&lt;/p></description></item><item><title>恭喜师广琛同学获评江苏省优秀学术学位硕士与江苏省计算机学会优秀硕士学位论文</title><link>https://hhudelta.github.io/post/24-11-27/</link><pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate><guid>https://hhudelta.github.io/post/24-11-27/</guid><description>&lt;p>
+&lt;/p></description></item><item><title>Congratulations to student Shi Guangchen on winning the Outstanding Academic Master's Degree in Jiangsu Province and the Outstanding Master's Thesis of Jiangsu Computer Society</title><link>https://hhudelta.github.io/post/24-11-27/</link><pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate><guid>https://hhudelta.github.io/post/24-11-27/</guid><description>&lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%5cnews%5c24-11-27-1.jpg" alt="sgc" loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;/figure>
-&lt;figure >
-&lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%5cnews%5c24-11-27-2.jpg" alt="sgc" loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;/figure>
-&lt;/p></description></item><item><title>恭喜孔其然同学发表在TCBB上的工作成为高被引论文</title><link>https://hhudelta.github.io/post/24-11-19/</link><pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate><guid>https://hhudelta.github.io/post/24-11-19/</guid><description>&lt;p>孔其然同学发表在TCBB的论文 &amp;ldquo;CDT-CAD: Context-Aware Deformable Transformers for End-to-End Chest Abnormality Detection on X-Ray Images&amp;rdquo; 被评为ESI高被引论文。&lt;/p></description></item><item><title>实验室巫义锐老师获评2024江苏省信息技术应用学会青年科技奖</title><link>https://hhudelta.github.io/post/24-11-7-2/</link><pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate><guid>https://hhudelta.github.io/post/24-11-7-2/</guid><description>&lt;p>在2024年11月7日于南京大学召开的“第三届江苏省信息技术应用大会”上，巫义锐教授荣获江苏省计算机学会青年科技奖，以表彰其在小样本学习领域的创新性成果。&lt;/p>
-&lt;p>此次大会高度重视信息技术科研应用，汇聚省内外高校、科研单位和企业的专家，致力于搭建信息技术领域的多层次合作平台，为技术创新与成果转化注入新活力。巫义锐教授的成果专注于小样本学习的理论拓展、平台设计、落地应用和技术推广，积极主导平台建设、推动技术成果在水利等行业的高效应用，并通过高层学术论坛促进行业融合，推动该领域实现新突破。
-&lt;figure >
-&lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%5cnews%5c24-11-7-1.jpg" alt="TNSM" loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;/figure>
-&lt;/p></description></item><item><title>实验室巫义锐老师获评2024年江苏省青年科技人才托举工程</title><link>https://hhudelta.github.io/post/24-11-7/</link><pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate><guid>https://hhudelta.github.io/post/24-11-7/</guid><description>&lt;p>江苏省青年科技人才托举工程（青托工程）是一项旨在培养和选拔优秀青年科技人才的重要人才计划。&lt;/p>
-&lt;p>该工程主要面向江苏省内的青年科研人员，特别是年龄在35周岁以下、在自然科学和工程技术等领域具有显著成就和发展潜力的青年。通过提供资金支持、搭建科研平台、组织学术交流和人才培养等措施，青托工程旨在帮助青年科技人才快速成长，成为科技领域的领军人物。自实施以来，青托工程已培养出一批在国内外具有影响力的青年科技人才，为江苏省乃至全国的经济社会发展贡献了重要力量。
-&lt;figure >
-&lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%5cnews%5c24-11-7.jpg" alt="TNSM" loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;/figure>
-&lt;/p></description></item><item><title>实验室刘新富博士前往南昌参加CCF CAD/CG2024会议，并做口头报告</title><link>https://hhudelta.github.io/post/24-08-15/</link><pubDate>Thu, 15 Aug 2024 00:00:00 +0000</pubDate><guid>https://hhudelta.github.io/post/24-08-15/</guid><description>&lt;p>
-&lt;figure >
-&lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%5cnews%5c8-15-lxf.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;/figure>
-由中国计算机学会(CCF)主办，CCF计算机辅助设计与图形学专业委员会、华东交通大学、浙江大学南昌研究院（江西求是高等研究院）、国家虚拟现实创新中心、南昌航空大学、中国移动虚拟现实创新中心共同承办的第27届全国计算机辅助设计与图形学学术会议（CCF CAD/CG 2024）将于2024年8月15日至8月18日在江西南昌举行。此次会议将与第十六届全国几何设计与计算学术会议（GDC 2024）同期同地举办。 助力江西推进产业链现代化“1269行动计划”，打造南昌信息技术产业高地，会议旨在汇聚多个领域的专家学者、技术创新者和制造业先驱，探讨VR产业在制造业中的创新应用与发展。作为中国计算机辅助设计与计算机图形学领域的最高水平旗舰会议，为加快新一代信息技术与制造业相互渗透、相互融合，支持制造业企业数字化转型，推动VR产业的创新和普及，致力于引入智能化的技术和系统，以提高制造业的效率和质量，打造南昌信息技术产业高地。&lt;/p>
-&lt;p>刘新富博士和秦锐同学合作的论文被CCF CAD/CG2024录用为口头报告论文，并被推荐至上海交通大学学报。&lt;/p></description></item><item><title>恭喜实验室秦锐同学论文被上海交通大学学报(英文版)录用</title><link>https://hhudelta.github.io/post/24-08-14/</link><pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate><guid>https://hhudelta.github.io/post/24-08-14/</guid><description>&lt;p>Hyperspectral Image Classification Method Based on Global Space-spectral Attention Mechanism&lt;/p>
-&lt;p>摘要：在超光谱遥感图像中，定义的空间范围内像素之间的相互作用导致相邻像素的混合。此外，相邻光谱的高相似性导致信息冗余，这阻碍了全局空间和光谱相关性的提取。为了解决相邻像素混合和相邻光谱冗余的问题，本文提出了一种基于全局空间-光谱注意力机制的 hyperspectral 图像分类方法。首先，所提出方法中的全局空间注意力模块使用多尺度膨胀卷积来获得更大的感受野，以捕获全局空间相关性并获得未混合的像素信息。然后，全局光谱注意力模块设计了一种光谱域划分算法，使用局部密度和信息熵的乘积作为阈值将光谱划分为分散的子集，消除冗余信息。充分利用了整个光谱带的全局上下文信息，并提取了全局光谱信息的相关性。最后，将这两个模块连接起来，获得空间和光谱的全局相关性。实验表明，该方法在三个 WHU-Hi 超光谱数据集上实现了97.28%、94.73%和95.76%的整体准确率，超过了比较方法。&lt;/p></description></item><item><title>恭喜实验室曹浩同学论文被TNSM录用</title><link>https://hhudelta.github.io/post/24-08-10/</link><pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate><guid>https://hhudelta.github.io/post/24-08-10/</guid><description>&lt;p>Edge Computing and Few-shot Learning Featured Intelligent Framework in Digital Twin empowered Mobile Networks&lt;/p>
-&lt;p>发表期刊：IEEE Transactions on Network and Service Management(中科院2区)
-&lt;figure >
-&lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%5cnews%5c8-10-TNSM.jpg" alt="TNSM" loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;/figure>
-数字孪生（DT）和移动网络在物联网（IoT）中演变出了智能形式。在本工作中，我们考虑了一个数字孪生移动网络（DTMN）场景，其中多媒体样本较少。面对少量样本知识提取、与多媒体数据动态变化的稳定交互、在低资源移动网络中节省时间和隐私的挑战，我们提出了一种具有边缘计算和少样本学习特性的智能框架。考虑到传输的时效性和移动网络中直接上传的隐私风险，我们部署边缘计算在本地运行网络进行分析，从而节省时间卸载计算请求，并通过加密原始数据提高隐私性。受图中的显著关系表示启发，我们在云端构建了图神经网络（GNN），将物理移动系统映射到数字孪生中的虚拟实体，从而在云端使用边缘上传的少量样本进行语义推理。偶尔，GNN中的节点特征可能会收敛到相似的非判别性嵌入，导致灾难性的不稳定现象。因此，在云端构建了一个迭代重新加权和丢弃结构（IRDS），尽管如此，它仍然对边缘不确定性提供了稳定性。作为IRDS的一部分，我们提出了一种丢弃边缘和节点（Edge&amp;amp;Node）方案，随机移除某些节点和边，这不仅增强了图邻接模式的区分能力，还提供了基于随机策略的数据加密。我们展示了一个社交网络中图像分类的实现案例，在公共数据集上的实验表明，我们的框架具有用户友好的优势，并具有显著智能。&lt;/p></description></item><item><title>实验室多位同学参加中国盐城创新创业大赛</title><link>https://hhudelta.github.io/post/24-07-26/</link><pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate><guid>https://hhudelta.github.io/post/24-07-26/</guid><description>&lt;p>中国盐城创新创业大赛，由盐城市政府主办，旨在推动区域创新发展，吸引全球创新人才，促进科技成果转化，该大赛聚焦多个高新技术领域，通过多阶段的赛事选拔和多元化支持，提升城市形象，助力经济发展，并致力于培养和孵化创新人才。&lt;/p>
-&lt;p>实验室刘新富博士、靳修同学、耿奥同学携实验室3个产学研项目分别在决赛现场进行了路演。
-&lt;figure >
-&lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%5cnews%5c24-7-26-1.jpg" alt="yc" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img alt="sgc" srcset="
+/post/24-11-27/24-11-27-1_hu7420813818915048835.webp 400w,
+/post/24-11-27/24-11-27-1_hu10138867403684541170.webp 760w,
+/post/24-11-27/24-11-27-1_hu871299329572434263.webp 1200w"
+src="https://hhudelta.github.io/post/24-11-27/24-11-27-1_hu7420813818915048835.webp"
+width="665"
+height="760"
+loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%5cnews%5c24-7-26-2.jpg" alt="yc" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img alt="sgc" srcset="
+/post/24-11-27/24-11-27-2_hu10282967524880210803.webp 400w,
+/post/24-11-27/24-11-27-2_hu17262527736767588179.webp 760w,
+/post/24-11-27/24-11-27-2_hu12088787830700886521.webp 1200w"
+src="https://hhudelta.github.io/post/24-11-27/24-11-27-2_hu10282967524880210803.webp"
+width="755"
+height="760"
+loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
-&lt;/p></description></item><item><title>实验室巫义锐老师受邀在物联网与智能城市国际研讨会上做小样本视觉学习专题演讲</title><link>https://hhudelta.github.io/post/24-06-22-isitsc/</link><pubDate>Sat, 22 Jun 2024 00:00:00 +0000</pubDate><guid>https://hhudelta.github.io/post/24-06-22-isitsc/</guid><description>&lt;p>感谢物联网与智能城市国际研讨会(ISITSC 2024)的邀请。欢迎各位前来线下参会：南京金帆万源酒店&amp;ndash;江苏省南京市鼓楼区牌楼巷 47-1 号(近汉中门地铁站,江苏省中医院)&lt;/p>
+&lt;/p></description></item><item><title>Congratulations to Kong Qiran on their work published in TCBB being recognized as a Highly Cited Paper</title><link>https://hhudelta.github.io/post/24-11-19/</link><pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate><guid>https://hhudelta.github.io/post/24-11-19/</guid><description>&lt;p>Kong Qiran&amp;rsquo;s paper &amp;ldquo;CDT-CAD: Context-Aware Deformable Transformers for End-to-End Chest Abnormality Detection on X-Ray Images,&amp;rdquo; published in TCBB, has been recognized as an ESI Highly Cited Paper.&lt;/p></description></item><item><title>Professor Wu Yirui from our lab was awarded the 2024 Jiangsu Province Young Science and Technology Talent Support Project</title><link>https://hhudelta.github.io/post/24-11-7/</link><pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate><guid>https://hhudelta.github.io/post/24-11-7/</guid><description>&lt;p>The Jiangsu Province Young Science and Technology Talent Support Project (Youth Support Project) is an important talent program aiming to cultivate and select outstanding young science and technology talents.&lt;/p>
+&lt;p>This project mainly targets young scientific researchers within Jiangsu Province, especially those who are under 35 years old and have remarkable achievements and development potential in fields such as natural sciences and engineering technologies. Through measures like providing financial support, building scientific research platforms, organizing academic exchanges and talent cultivation, the Youth Support Project aims to help young science and technology talents grow rapidly and become leading figures in the field of science and technology. Since its implementation, the Youth Support Project has cultivated a number of young science and technology talents with influence both at home and abroad, and has contributed significantly to the economic and social development of Jiangsu Province and even the whole country.
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="TNSM" srcset="
+/post/24-11-7/24-11-7_hu12565523055704257478.webp 400w,
+/post/24-11-7/24-11-7_hu3382202134049744934.webp 760w,
+/post/24-11-7/24-11-7_hu6311799154446728604.webp 1200w"
+src="https://hhudelta.github.io/post/24-11-7/24-11-7_hu12565523055704257478.webp"
+width="760"
+height="458"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item><item><title>Professor Wu Yirui from our lab was awarded the 2024 Youth Science and Technology Award of Jiangsu Information Technology Application Society</title><link>https://hhudelta.github.io/post/24-11-7-2/</link><pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate><guid>https://hhudelta.github.io/post/24-11-7-2/</guid><description>&lt;p>At the &amp;ldquo;3rd Jiangsu Information Technology Application Conference&amp;rdquo; held at Nanjing University on November 7, 2024, Professor Wu Yirui was awarded the Youth Science and Technology Award of Jiangsu Computer Society in recognition of his innovative achievements in the field of few-shot learning.&lt;/p>
+&lt;p>This conference highly values the scientific research and application of information technology. It gathers experts from universities, scientific research institutions and enterprises both inside and outside the province, and is committed to building a multi-level cooperation platform in the field of information technology, injecting new vitality into technological innovation and achievement transformation. Professor Wu Yirui&amp;rsquo;s achievements focus on theoretical expansion, platform design, practical application and technology promotion in few-shot learning. He actively leads platform construction, promotes the efficient application of technological achievements in industries such as water conservancy, and promotes industry integration through high-level academic forums, driving new breakthroughs in this field.
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="" srcset="
+/post/24-11-7-2/24-11-7-1_hu10048962621277310322.webp 400w,
+/post/24-11-7-2/24-11-7-1_hu8796156974954869094.webp 760w,
+/post/24-11-7-2/24-11-7-1_hu16017494575331939204.webp 1200w"
+src="https://hhudelta.github.io/post/24-11-7-2/24-11-7-1_hu10048962621277310322.webp"
+width="760"
+height="450"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item><item><title>Dr. Liu Xinfu from our lab attended the CCF CAD/CG2024 conference in Nanchang and gave an oral presentation</title><link>https://hhudelta.github.io/post/24-08-15/</link><pubDate>Thu, 15 Aug 2024 00:00:00 +0000</pubDate><guid>https://hhudelta.github.io/post/24-08-15/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="lxf" srcset="
+/post/24-08-15/8-15-lxf_hu18429399962736178322.webp 400w,
+/post/24-08-15/8-15-lxf_hu6607602041940851547.webp 760w,
+/post/24-08-15/8-15-lxf_hu14126082609433588033.webp 1200w"
+src="https://hhudelta.github.io/post/24-08-15/8-15-lxf_hu18429399962736178322.webp"
+width="688"
+height="760"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+The 27th National Conference on Computer-Aided Design and Computer Graphics (CCF CAD/CG 2024), organized by the China Computer Federation (CCF) and co-hosted by the CCF Computer-Aided Design and Graphics Committee, East China Jiaotong University, Zhejiang University Nanchang Research Institute (Jiangxi Qiushi Advanced Research Institute), National Virtual Reality Innovation Center, Nanchang University of Aeronautics, and China Mobile Virtual Reality Innovation Center, will be held in Nanchang, Jiangxi, from August 15 to August 18, 2024. This conference will be held concurrently with the 16th National Conference on Geometric Design and Computing (GDC 2024). The conference aims to support the modernization of the industrial chain in Jiangxi under the &amp;ldquo;1269 Action Plan&amp;rdquo; and build Nanchang into a high-tech hub for information technology industries. The conference will bring together experts, scholars, technical innovators, and manufacturing pioneers from multiple fields to discuss the innovative applications and development of VR technology in the manufacturing industry.&lt;/p>
+&lt;p>As a flagship event for the computer-aided design and computer graphics community in China, this conference seeks to accelerate the integration of new-generation information technology with the manufacturing industry, support the digital transformation of manufacturing enterprises, and promote the innovation and popularization of VR technology. The conference aims to introduce intelligent technologies and systems to improve the efficiency and quality of manufacturing and establish Nanchang as a hub for the information technology industry.&lt;/p>
+&lt;p>The paper co-authored by Dr. Liu Xinfu and Qin Rui from our lab was accepted for an oral presentation at CCF CAD/CG 2024 and has been recommended to the Journal of Shanghai Jiao Tong University.&lt;/p></description></item><item><title>Congratulations to Qin Rui on his paper being accepted by the Journal of Shanghai Jiao Tong University (English Edition).</title><link>https://hhudelta.github.io/post/24-08-14/</link><pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate><guid>https://hhudelta.github.io/post/24-08-14/</guid><description>&lt;p>Hyperspectral Image Classification Method Based on Global Space-spectral Attention Mechanism&lt;/p>
+&lt;p>abstract：In hyperspectral remote sensing images, the interactions between pixels within a defined spatial range lead to the mixing of adjacent pixels. Additionally, the high similarity between adjacent spectra results in information redundancy, which hinders the extraction of global spatial and spectral correlations. To address the issues of adjacent pixel mixing and spectral redundancy, this paper proposes a hyperspectral image classification method based on a global spatial-spectral attention mechanism.&lt;/p>
+&lt;p>First, the global spatial attention module in the proposed method uses multi-scale dilated convolutions to obtain a larger receptive field, capturing global spatial correlations and extracting unmixed pixel information. Then, the global spectral attention module designs a spectral domain partitioning algorithm, which uses the product of local density and information entropy as a threshold to divide the spectrum into scattered subsets, eliminating redundant information. This approach fully utilizes the global contextual information of the entire spectral band and extracts the correlation of global spectral information.&lt;/p>
+&lt;p>Finally, these two modules are combined to obtain the global correlations of both space and spectrum. Experimental results show that the proposed method achieves overall accuracies of 97.28%, 94.73%, and 95.76% on three WHU-Hi hyperspectral datasets, outperforming the comparison methods.&lt;/p></description></item><item><title>Congratulations to Cao Hao for his paper being accepted by TNSM</title><link>https://hhudelta.github.io/post/24-08-10/</link><pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate><guid>https://hhudelta.github.io/post/24-08-10/</guid><description>&lt;p>Edge Computing and Few-shot Learning Featured Intelligent Framework in Digital Twin empowered Mobile Networks&lt;/p>
+&lt;p>Journal：IEEE Transactions on Network and Service Management(中科院2区)
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="TNSM" srcset="
+/post/24-08-10/8-10-TNSM_hu7837883942385654050.webp 400w,
+/post/24-08-10/8-10-TNSM_hu4931487883507225613.webp 760w,
+/post/24-08-10/8-10-TNSM_hu6080515494608663134.webp 1200w"
+src="https://hhudelta.github.io/post/24-08-10/8-10-TNSM_hu7837883942385654050.webp"
+width="746"
+height="536"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+Digital twins (DT) and mobile networks have evolved forms of intelligence in Internet of Things (IoT). In this work, we consider a Digital Twin Mobile Network (DTMN) scenario with few multimedia samples. Facing challenges of knowledge extraction with few samples, stable interaction with dynamic changes of multimedia data, time and privacy saving in low-resource mobile network, we propose an edge computing and few-shot learning featured intelligent framework. Considering time-sensitive property of transmission and privacy risks of directly uploads in mobile network, we deploy edge computing to locally run networks for analysis, thus saving time to offload computing request and enhancing privacy by encrypting original data. Inspired by remarkable relationship representation of graphs, we build Graph Neural Network (GNN) in cloud to map physical mobile systems to virtual entities with DT, thus performing semantic inferences in cloud with few samples uploaded by edges. Occasionally, node features in GNN could converge to similar, non-discriminative embeddings, causing catastrophic unstable phenomena. An iterative reweight and drop structure (IRDS) is thus constructed in cloud, which nonetheless contributes stability with respect to edge uncertainty. As part of IRDS, a drop Edge&amp;amp;Node scheme is proposed to randomly remove certain nodes and edges, which not only enhances distinguished capability of graph neighbor patterns, but also offers data encryption with random strategy. We show one implementation case of image classification in social network, where experiments on public datasets show that our framework is effective with user-friendly advantages and significant intelligence.&lt;/p></description></item><item><title>Several students from our lab participated in the China Yancheng Innovation and Entrepreneurship Competition</title><link>https://hhudelta.github.io/post/24-07-26/</link><pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate><guid>https://hhudelta.github.io/post/24-07-26/</guid><description>&lt;p>The China Yancheng Innovation and Entrepreneurship Competition, hosted by the Yancheng Municipal Government, aims to promote regional innovation development, attract global talent, and facilitate the transformation of scientific and technological achievements. The competition focuses on multiple high-tech fields and enhances the city&amp;rsquo;s image and economic development through multi-stage selection and diversified support, while also fostering and incubating innovative talent.&lt;/p>
+&lt;p>Dr. Liu Xinfu, along with students Jin Xiu and Geng Ao from our lab, presented three industry-academia-research projects at the finals.
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="yc" srcset="
+/post/24-07-26/24-7-26-1_hu15223345082422988554.webp 400w,
+/post/24-07-26/24-7-26-1_hu14336897332092596019.webp 760w,
+/post/24-07-26/24-7-26-1_hu603555649811988175.webp 1200w"
+src="https://hhudelta.github.io/post/24-07-26/24-7-26-1_hu15223345082422988554.webp"
+width="760"
+height="428"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="yc" srcset="
+/post/24-07-26/24-7-26-2_hu10349492851419248489.webp 400w,
+/post/24-07-26/24-7-26-2_hu9359832171656924273.webp 760w,
+/post/24-07-26/24-7-26-2_hu2123846075044115619.webp 1200w"
+src="https://hhudelta.github.io/post/24-07-26/24-7-26-2_hu10349492851419248489.webp"
+width="428"
+height="760"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item><item><title>Professor Wu Yirui from our lab was invited to deliver a keynote speech on Few-shot Visual Learning at the International Symposium on IoT and Smart Cities</title><link>https://hhudelta.github.io/post/24-06-22-isitsc/</link><pubDate>Sat, 22 Jun 2024 00:00:00 +0000</pubDate><guid>https://hhudelta.github.io/post/24-06-22-isitsc/</guid><description>&lt;p>Thank you to the International Symposium on IoT and Smart Cities (ISITSC 2024) for the invitation. We warmly welcome everyone to join the event in person at: Nanjing Jinfan Wanyuan Hotel, 47-1 Pailou Alley, Gulou District, Nanjing, Jiangsu Province (near Hanzhongmen Metro Station, Jiangsu Provincial Hospital of Traditional Chinese Medicine).&lt;/p>
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%5cnews%5c6-22-isitsc-1.jpg" alt="ISITSC" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img alt="ISITSC" srcset="
+/post/24-06-22-isitsc/6-22-isitsc-1_hu10805633929552261816.webp 400w,
+/post/24-06-22-isitsc/6-22-isitsc-1_hu13794981065102496536.webp 760w,
+/post/24-06-22-isitsc/6-22-isitsc-1_hu5371667331774245523.webp 1200w"
+src="https://hhudelta.github.io/post/24-06-22-isitsc/6-22-isitsc-1_hu10805633929552261816.webp"
+width="538"
+height="760"
+loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%5cnews%5c6-22-isitsc-2.jpg" alt="ISITSC" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img alt="ISITSC" srcset="
+/post/24-06-22-isitsc/6-22-isitsc-2_hu3812434720391992174.webp 400w,
+/post/24-06-22-isitsc/6-22-isitsc-2_hu519591548804692204.webp 760w,
+/post/24-06-22-isitsc/6-22-isitsc-2_hu16153292843407967092.webp 1200w"
+src="https://hhudelta.github.io/post/24-06-22-isitsc/6-22-isitsc-2_hu3812434720391992174.webp"
+width="590"
+height="598"
+loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="%5cnews%5c6-22-isitsc-3.jpg" alt="ISITSC" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img alt="ISITSC" srcset="
+/post/24-06-22-isitsc/6-22-isitsc-3_hu1897182925022434207.webp 400w,
+/post/24-06-22-isitsc/6-22-isitsc-3_hu5991647798358064702.webp 760w,
+/post/24-06-22-isitsc/6-22-isitsc-3_hu8548509649217607216.webp 1200w"
+src="https://hhudelta.github.io/post/24-06-22-isitsc/6-22-isitsc-3_hu1897182925022434207.webp"
+width="562"
+height="760"
+loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
-&lt;/p></description></item><item><title>实验室发表在TECS的论文被评为ESI高被引论文</title><link>https://hhudelta.github.io/post/24-05-22-tecs-high-cited/</link><pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate><guid>https://hhudelta.github.io/post/24-05-22-tecs-high-cited/</guid><description>&lt;p>我们发表在TECS的论文 &amp;ldquo;Edge-AI-Driven Framework with Efficient Mobile Network Design for Facial Expression Recognition&amp;rdquo; 被评为ESI高被引论文&lt;/p></description></item><item><title>CCF 南京分部公益论坛：大模型助力新质生产力</title><link>https://hhudelta.github.io/post/24-05-11-ccf-forum/</link><pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate><guid>https://hhudelta.github.io/post/24-05-11-ccf-forum/</guid><description>&lt;p>由CCF南京分部主办的，CCF YOCSEF南京协办的CCF 南京分部公益论坛：大模型助力新质生产力，将于2024 年 5 月 12 日（周日）9:00-11:20在河海大学江宁校区行政楼一楼 多功能厅举行。活动面向高校大学生，邀请到了国内知名大模型专家，东南大学漆桂林教授、南京大学王利民教授，对自然语言和视觉大模型技术的当下与 未来发展脉络做技术报告，提高学生对新一代人工智能技术-预训练大模型的认知，启迪他们设计技术落地实际应用的场景，为他们未来的职业规划、 职业目标做准备。欢迎各位学术界、工业界小伙伴以及同学们现场参与。
+&lt;/p></description></item><item><title>One paper published in TECS becomes ESI highly cited paper</title><link>https://hhudelta.github.io/post/24-05-22-tecs-high-cited/</link><pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate><guid>https://hhudelta.github.io/post/24-05-22-tecs-high-cited/</guid><description>&lt;p>Paper published in TECS &amp;ldquo;Edge-AI-Driven Framework with Efficient Mobile Network Design for Facial Expression Recognition&amp;rdquo; becomes ESI highly cited paper. This is our forth paper for ESI highly cited paper.&lt;/p></description></item><item><title>CCF Nanjing Chapter Public Forum: Empowering New Productivity with Large Models</title><link>https://hhudelta.github.io/post/24-05-11-ccf-forum/</link><pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate><guid>https://hhudelta.github.io/post/24-05-11-ccf-forum/</guid><description>&lt;p>We have organized a forum about language and vision big model in Hohai University, Jiangning Campus. We have been grateful to invite Professor Guilin Qi from Southeast University and Professor Liming Wang from Nanjing University. Hope to see you in Nanjing.
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="screen reader text" srcset="
@@ -101,4 +209,4 @@ width="487"
 height="760"
 loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
-&lt;/p></description></item><item><title>实验室同学前往重庆参加VALSE2024学术会议</title><link>https://hhudelta.github.io/post/24-05-06-valse/</link><pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate><guid>https://hhudelta.github.io/post/24-05-06-valse/</guid><description>&lt;p>实验室访学记录：重庆VALSE行,2024年5月4日至7日,实验室组织了研究生同学，前往重庆参加VALSE2024学术会议。&lt;/p></description></item><item><title>实验室发表在TOIT的论文被评为ESI高被引论文</title><link>https://hhudelta.github.io/post/24-03-15-toit-high-cited/</link><pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate><guid>https://hhudelta.github.io/post/24-03-15-toit-high-cited/</guid><description>&lt;p>我们发表在TOIT的论文 &amp;ldquo;Digital Twin of Intelligent Small Surface Defect Detection with Cyber-Manufacturing Systems&amp;rdquo; 被评为ESI高被引论文。&lt;/p></description></item><item><title>实验室发表在TNSE的论文被评为ESI热点论文。</title><link>https://hhudelta.github.io/post/24-03-10-tnse-hot-paper/</link><pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate><guid>https://hhudelta.github.io/post/24-03-10-tnse-hot-paper/</guid><description>&lt;p>我们发表在TNSE的论文 &amp;ldquo;Edge Computing Driven Low-Light Image Dynamic Enhancement for Object Detection&amp;rdquo; 被评为ESI热点论文。&lt;/p></description></item><item><title>实验室发表在TNSE的论文被评为ESI高被引论文</title><link>https://hhudelta.github.io/post/23-12-22-tnse-high-cited/</link><pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate><guid>https://hhudelta.github.io/post/23-12-22-tnse-high-cited/</guid><description>&lt;p>我们发表在TNSE的论文 &amp;ldquo;Edge Computing Driven Low-Light Image Dynamic Enhancement for Object Detection&amp;rdquo; 被评为ESI高被引论文&lt;/p></description></item></channel></rss>
+&lt;/p></description></item><item><title>Our team has attented VALSE2024 in Chongqing City</title><link>https://hhudelta.github.io/post/24-05-06-valse/</link><pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate><guid>https://hhudelta.github.io/post/24-05-06-valse/</guid><description/></item><item><title>One paper published in TOIT becomes ESI highly cited paper</title><link>https://hhudelta.github.io/post/24-03-15-toit-high-cited/</link><pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate><guid>https://hhudelta.github.io/post/24-03-15-toit-high-cited/</guid><description>&lt;p>Paper published in TOIT &amp;ldquo;Digital Twin of Intelligent Small Surface Defect Detection with Cyber-Manufacturing Systems&amp;rdquo; becomes ESI highly cited paper. This is our third paper for ESI highly cited paper.&lt;/p></description></item><item><title>One paper published in TNSE becomes ESI hot paper</title><link>https://hhudelta.github.io/post/24-03-10-tnse-hot-paper/</link><pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate><guid>https://hhudelta.github.io/post/24-03-10-tnse-hot-paper/</guid><description>&lt;p>Paper published in TNSE &amp;ldquo;Edge Computing Driven Low-Light Image Dynamic Enhancement for Object Detection&amp;rdquo; becomes ESI hot paper. This is our first paper for ESI hot paper.&lt;/p></description></item><item><title>One paper published in TNSE becomes ESI highly cited paper</title><link>https://hhudelta.github.io/post/23-12-22-tnse-high-cited/</link><pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate><guid>https://hhudelta.github.io/post/23-12-22-tnse-high-cited/</guid><description>&lt;p>Paper published in TNSE &amp;ldquo;Edge Computing Driven Low-Light Image Dynamic Enhancement for Object Detection&amp;rdquo; becomes ESI highly cited paper. This is our second paper for ESI highly cited.&lt;/p></description></item></channel></rss>
