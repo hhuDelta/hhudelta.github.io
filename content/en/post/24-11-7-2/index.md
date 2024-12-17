@@ -1,5 +1,5 @@
 ---
-title: Professor Wu Yirui from our lab was awarded the 2024 Youth Science and Technology Award of Jiangsu Information Technology Application Society
+title: Professor Wu Yirui Awarded the 2024 Youth Science and Technology Award by the Jiangsu Information Technology Application Society
 date: 2024-11-07
 image:
   focal_point: 'top'

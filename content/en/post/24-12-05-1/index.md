@@ -1,5 +1,5 @@
 ---
-title: Professor Wu Yirui from our lab was awarded the title of IEEE Senior Member
+title: Professor Wu Yirui was awarded the title of IEEE Senior Member
 date: 2024-12-05
 image:
   focal_point: 'top'

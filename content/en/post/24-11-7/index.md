@@ -1,5 +1,5 @@
 ---
-title: Professor Wu Yirui from our lab was awarded the 2024 Jiangsu Province Young Science and Technology Talent Support Project
+title: Professor Wu Yirui Awarded the 2024 Jiangsu Province Young Science and Technology Talent Support Program
 date: 2024-11-07
 image:
   focal_point: 'top'

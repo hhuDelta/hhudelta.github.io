@@ -1,5 +1,5 @@
 ---
-title: Congratulations to Cao Hao for his paper being accepted by TNSM
+title: Congratulations to Hao Cao for his paper being accepted by TNSM
 date: 2024-08-10
 image:
   focal_point: 'top'

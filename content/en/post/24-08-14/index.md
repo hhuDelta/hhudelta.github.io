@@ -1,5 +1,5 @@
 ---
-title: Congratulations to Qin Rui on his paper being accepted by the Journal of Shanghai Jiao Tong University (English Edition).
+title: Congratulations to Rui Qin on His Paper's Acceptance by the Journal of Shanghai Jiao Tong University (English Edition).
 date: 2024-08-14
 image:
   focal_point: 'top'

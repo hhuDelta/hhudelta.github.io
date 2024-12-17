@@ -1,5 +1,5 @@
 ---
-title: Dr. Liu Xinfu from our lab attended the CCF CAD/CG2024 conference in Nanchang and gave an oral presentation
+title: Dr. Xinfu Liu Attended the CCF CAD/CG2024 Conference in Nanchang and Delivered an Oral Presentation
 date: 2024-08-15
 image:
   focal_point: 'top'

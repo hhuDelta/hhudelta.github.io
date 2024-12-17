@@ -1,5 +1,5 @@
 ---
-title: Several students from our lab participated in the China Yancheng Innovation and Entrepreneurship Competition
+title: Several students from our team participated in the China Yancheng Innovation and Entrepreneurship Competition.
 date: 2024-07-26
 image:
   focal_point: 'top'
