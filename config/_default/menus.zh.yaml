@@ -19,6 +19,12 @@ main:
   - name: 发表
     url: publication
     weight: 50
+  - name: 项目
+    url: project
+    weight: 60
+  - name: 教学
+    url: teaching
+    weight: 70
   - name: 联系我们
     url: contact
-    weight: 60
+    weight: 80
