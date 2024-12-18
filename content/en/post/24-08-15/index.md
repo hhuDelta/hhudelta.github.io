@@ -10,5 +10,5 @@ The 27th National Conference on Computer-Aided Design and Computer Graphics (CCF
 
 As a flagship event for the computer-aided design and computer graphics community in China, this conference seeks to accelerate the integration of new-generation information technology with the manufacturing industry, support the digital transformation of manufacturing enterprises, and promote the innovation and popularization of VR technology. The conference aims to introduce intelligent technologies and systems to improve the efficiency and quality of manufacturing and establish Nanchang as a hub for the information technology industry.
 
-The paper co-authored by Dr. Liu Xinfu and Qin Rui from our lab was accepted for an oral presentation at CCF CAD/CG 2024 and has been recommended to the Journal of Shanghai Jiao Tong University.
+The paper co-authored by Dr. Xinfu Liu and Rui Qin from our lab was accepted for an oral presentation at CCF CAD/CG 2024 and has been recommended to the Journal of Shanghai Jiao Tong University.
 

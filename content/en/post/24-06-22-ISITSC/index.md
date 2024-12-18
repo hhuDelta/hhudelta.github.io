@@ -1,5 +1,5 @@
 ---
-title: Professor Wu Yirui from our lab was invited to deliver a keynote speech on Few-shot Visual Learning at the International Symposium on IoT and Smart Cities
+title: Professor Yirui Wu from our lab was invited to deliver a keynote speech on Few-shot Visual Learning at the International Symposium on IoT and Smart Cities
 date: 2024-06-22
 image:
   focal_point: 'top'

@@ -1,5 +1,5 @@
 ---
-title: Professor Wu Yirui Invited to Serve as Associate Editor for Computational Intelligence (CCF-C)
+title: Professor Yirui Wu Invited to Serve as Associate Editor for Computational Intelligence (CCF-C)
 date: 2024-12-05
 image:
   focal_point: 'top'

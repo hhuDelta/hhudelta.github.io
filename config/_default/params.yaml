@@ -47,7 +47,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} HHU-CV Lab. This work is licensed under {license}'
+    notice: '© {year} HHU Delta Lab. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -117,4 +117,4 @@ extensions:
 
 publications:
   date_format: January 2006
-  citation_style: apa
+  citation_style: APA
