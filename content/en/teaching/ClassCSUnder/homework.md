@@ -5,4 +5,4 @@ type: book
 weight: 25
 ---
 第一次小作业布置及如何使用河海查重系统
-{{% staticref "uploads/AIHomework.pptx" "newtab" %}}Download PPT{{% /staticref %}}
+{{% staticref "uploads/CSHomework.pptx" "newtab" %}}Download PPT{{% /staticref %}}
