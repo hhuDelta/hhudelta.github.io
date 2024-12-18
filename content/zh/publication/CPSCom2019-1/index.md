@@ -9,7 +9,7 @@ authors:
   - Jun Feng
   - Zirun Cheng
 
-date: '2019'
+date: '2019-07-01'
 doi: '10.1109/iThings/GreenCom/CPSCom/SmartData.2019.00095'
 
 # Schedule page publish date (NOT publication's date).

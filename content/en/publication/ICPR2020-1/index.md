@@ -7,7 +7,7 @@ authors:
   - Tong Lu
   - Yirui Wu
 
-date: '2021-01'
+date: '2021-01-01'
 doi: '10.1109/ICPR48806.2021.9413140'
 
 # Schedule page publish date (NOT publication's date).

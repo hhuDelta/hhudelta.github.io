@@ -9,7 +9,7 @@ authors:
   - Wei Wang
   - Tong Lu
 
-date: '2018'
+date: '2018-10-01'
 doi: '10.1109/ICIP.2018.8451041'
 
 # Conference details

@@ -7,7 +7,7 @@ authors:
   - Yirui Wu
   - Shaohua Wan
 
-date: '2021-10'
+date: '2021-10-01'
 doi: '10.1109/EUC53437.2021.00031'
 
 # Schedule page publish date (NOT publication's date).

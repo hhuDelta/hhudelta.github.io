@@ -8,7 +8,7 @@ authors:
   - Palaiahnakote Shivakumara
   - Tong Lu
 
-date: '2018'
+date: '2018-01-01'
 doi: '10.1007/978-3-319-73600-6_5'
 
 # Book details

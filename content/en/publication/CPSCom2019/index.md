@@ -7,7 +7,7 @@ authors:
   - Yukai Ding
   - Jun Feng
 
-date: '2019'
+date: '2019-07-01'
 doi: '10.1109/iThings/GreenCom/CPSCom/SmartData.2019.00067'
 
 # Schedule page publish date (NOT publication's date).

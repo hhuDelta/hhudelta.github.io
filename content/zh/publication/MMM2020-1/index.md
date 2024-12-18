@@ -8,7 +8,7 @@ authors:
   - Wenhai Wang
   - Tong Lu
 
-date: '2020'
+date: '2020-01-01'
 doi: '10.1007/978-3-030-37734-2_17'
 
 # Schedule page publish date (NOT publication's date).
