@@ -19,7 +19,7 @@ publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
 publication: Journal of Shanghai Jiaotong University (Science)
-publication_short: Journal of Shanghai Jiaotong University (Science)(SCI)
+publication_short: Journal of Shanghai Jiaotong University (Science)(EI)
 
 # Volume and issue
 
