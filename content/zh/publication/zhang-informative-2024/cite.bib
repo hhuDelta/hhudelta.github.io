@@ -1,0 +1,16 @@
+@inproceedings{zhang_informative_2024,
+ abstract = {Point cloud plays a significant role in recent learning-based vision tasks, which contain additional information about the physical space compared to 2D images. However, such a 3D data format also results in more expensive training costs to train a sophisticated network with large 3D datasets. Previous methods for point cloud compression focus on compacting the representation of each point cloud for better storage and transmission but ignore the improvements in training efficiency. In this paper, we introduce a new open problem in the point cloud field, named point cloud condensation : Can we condense a large point cloud dataset into a much smaller synthetic dataset while preserving the important information of the original large dataset? In other words, we explore the possibility of training a network on a smaller dataset of informative point clouds extracted from the original large dataset but maintaining similar network classification performance. Training on this small synthetic dataset could largely improve the training efficiency. To achieve this goal, we propose a two-stage approach to generate the synthetic dataset. We first introduce a nearest-feature-mean based strategy to initialize the synthetic dataset, and then formulate our goal as a parameter-matching problem, which we solve by introducing a gradient-matching strategy to iteratively refine the synthetic dataset. We conduct extensive experiments on various synthetic and real-scanned 3D object classification benchmarks, showing that our synthetic dataset could achieve almost the same performance with only 5% point clouds of ScanObjectNN dataset compared to training with the full dataset. Codes are available at https://github.com/XLechter/PointCondensation.},
+ address = {New York, NY, USA},
+ author = {Zhang, Wenxiao and Wang, Ziqi and Xu, Li and Yang, Xun and Liu, Jun},
+ booktitle = {Proceedings of the 32nd ACM International Conference on Multimedia},
+ doi = {10.1145/3664647.3680767},
+ isbn = {979-8-4007-0686-8},
+ keywords = {point cloud, point cloud condensation, shape representation},
+ note = {event-place: Melbourne VIC, Australia},
+ pages = {6384--6393},
+ publisher = {Association for Computing Machinery},
+ series = {MM '24},
+ title = {Informative Point cloud Dataset Extraction for Classification via Gradient-based Points Moving},
+ url = {10.1145/3664647.3680767},
+ year = {2024}
+}

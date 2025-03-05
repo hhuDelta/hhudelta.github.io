@@ -1,0 +1,13 @@
+@article{long_sparsedc_2024,
+ abstract = {We propose SparseDC, a model for Depth Completion from Sparse and non-uniform inputs. Unlike previous methods focusing on completing fixed distributions on benchmark datasets (e.g., NYU with 500 points, KITTI with 64 lines), SparseDC is specifically designed to handle depth maps with poor quality in real usage. Our SparseDC makes two major contributions. First, we design a simple strategy, called SFFM, to improve the robustness under sparse inputs by explicitly filling the unstable depth features with stable image features. Second, we suggest utilizing a two-branch feature embedder in order to forecast the exact local geometry of regions with available depth values and accurate structures in regions with no depth. The key of the embedder is an uncertainty-based feature fusion module called UFFM to balance the local and long-term information extracted by CNNs and ViTs. Numerous experiments conducted both indoors and outdoors show how robust and effective our framework is when facing sparse and non-uniform input depths. And SparseDC outperforms the current state-of-the-art (SOTA) method, CFormer, with varying inputs. We use less parameters (38.2M \textless 45M) and achieve a +18.6% increase in the REL metric and a +9.9% increase in the RMSE metric on NYU Depth dataset. The pre-trained model and the complete code repository can be accessed at https://github.com/WHU-USI3DV/SparseDC.},
+ author = {Long, Chen and Zhang, Wenxiao and Chen, Zhe and Wang, Haiping and Liu, Yuan and Tong, Peiling and Cao, Zhen and Dong, Zhen and Yang, Bisheng},
+ doi = {10.1016/j.inffus.2024.102470},
+ issn = {1566-2535},
+ journal = {Information Fusion},
+ keywords = {Depth completion, Information fusion, Uncertainty},
+ pages = {102470},
+ title = {SparseDC: Depth completion from sparse and non-uniform inputs},
+ url = {https://www.sciencedirect.com/science/article/pii/S1566253524002483},
+ volume = {110},
+ year = {2024}
+}

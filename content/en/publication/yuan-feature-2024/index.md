@@ -9,7 +9,7 @@ date: '2024-01-01'
 publishDate: '2024-12-18T16:43:54.829346Z'
 publication_types:
 - article-journal
-publication: '*IEEE Transactions on Image Processing*'
+publication: '*IEEE Transactions on Image Processing(CCF-A)*'
 doi: 10.1109/TIP.2023.3348992
 abstract: Feature selection (FS) has recently attracted considerable attention in
   many fields. Highly-overlapping classes and skewed distributions of data within

@@ -1,0 +1,49 @@
+---
+title: 'DGECN++: A Depth-Guided Edge Convolutional Network for End-to-End 6D Pose
+  Estimation via Attention Mechanism'
+authors:
+- Tuo Cao
+- Wenxiao Zhang
+- Yanping Fu
+- Shengjie Zheng
+- Fei Luo
+- Chunxia Xiao
+date: '2024-06-01'
+publishDate: '2025-03-05T16:14:07.352623Z'
+publication_types:
+- article-journal
+publication: '*IEEE Transactions on Circuits and Systems for Video Technology*'
+doi: 10.1109/TCSVT.2023.3327430
+abstract: 'Monocular object 6D pose estimation is a fundamental yet challenging task
+  in computer vision. Recently, deep learning has been proven to be capable of predicting
+  remarkable results in this task. Existing works often adopt a two-stage pipeline
+  with establishing 2D-3D correspondences and utilizing a PnP/RANSAC or differentiable
+  PnP algorithm to recover 6 degrees-of-freedom (6DoF) pose parameters. However, most
+  of them hardly consider the geometric features in 3D space, and ignore the topological
+  cues when performing differentiable PnP algorithms. To this end, we present an improved
+  end-to-end monocular 6D pose estimation method (DGECN++) that incorporates depth
+  estimation and a geometric-aware learnable PnP network. Our method is based on keypoints.
+  First we detect the 2D keypoints that correspond to the 3D model. We then integrate
+  differentiable PnP/RANSAC algorithm to create an end-to-end pipeline for 6D pose
+  estimation. We focuses on the following three key aspects: 1) We utilize the estimated
+  depth information to guide the process of extracting 2D-3D correspondences and refine
+  the results using a cascaded differentiable PnP/RANSAC algorithm that incorporates
+  geometric information. 2) We leverage the uncertainty of the estimated depth map
+  to enhance the accuracy and robustness of the predicted 6D pose. 3) We propose a
+  differentiable Perspective-n-Point (PnP) algorithm based on edge convolution and
+  self-attention to explore the topological relationships between 2D-3D correspondences.
+  Experimental results demonstrate that our proposed network surpasses existing methods
+  in terms of both effectiveness and efficiency.'
+tags:
+- Feature extraction
+- Task analysis
+- Three-dimensional displays
+- Uncertainty
+- 6D pose estimation
+- attention mechanism
+- Convolutional neural networks
+- end-to-end networks
+- graph CNN
+- Pose estimation
+- Prediction algorithms
+---

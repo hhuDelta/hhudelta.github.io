@@ -1,0 +1,16 @@
+@inproceedings{wang_megasurf_2024,
+ abstract = {We present MegaSurf, a Neural Surface Reconstruction (NSR) framework to reconstruct 3D models of large scenes from aerial images. Many methods utilize geometry cues to overcome the shape-radiance ambiguity, which would produce large geometric errors. In addition, directly using inevitable imprecise geometric cues would lead to degradation in the reconstruction results, especially on large-scale scenes. To address this phenomenon, we propose a Learnable Geometric Guider (LG Guider) to learn a sampling field from reliable geometric cues. The LG Guider decides which position should fit the input radiance and can be continuously refined by rendering loss. Our MegaSurf uses a Divide-and-Conquer training strategy to address the synchronization issue between the Guider and the lagging NSR's radiance field. This strategy enables the Guider to transmit the information it carried to the radiance field without being disrupted by the gradients back-propagated from the lagging rendering loss at the early stage of training. Furthermore, we propose a Fast PatchMatch MVS module to derive the geometric cues in the planer regions that help overcome ambiguity. Experiments on several aerial datasets show that MegaSurf can overcome ambiguity while preserving high-fidelity details. Compared to SOTA methods, MegaSurf achieves superior reconstruction accuracy of large scenes and boosts the acquisition of geometric cues more than four times.},
+ address = {New York, NY, USA},
+ author = {Wang, Yusen and Zhou, Kaixuan and Zhang, Wenxiao and Xiao, Chunxia},
+ booktitle = {Proceedings of the 32nd ACM International Conference on Multimedia},
+ doi = {10.1145/3664647.3681303},
+ isbn = {979-8-4007-0686-8},
+ keywords = {derived from neural radiance field, neural surface reconstruction (nsr), recently},
+ note = {event-place: Melbourne VIC, Australia},
+ pages = {6414--6423},
+ publisher = {Association for Computing Machinery},
+ series = {MM '24},
+ title = {MegaSurf: Scalable Large Scene Neural Surface Reconstruction},
+ url = {https://doi.org/10.1145/3664647.3681303},
+ year = {2024}
+}
